@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 400;
 }
 
@@ -20,7 +20,7 @@ input[type="url"],
 input[type="week"],
 select:focus,
 textarea {
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .navbar {
@@ -60,7 +60,7 @@ textarea {
 .cta p {
   color: #fff;
   font-size: 1.2em;
-  font-weight: 100;
+  font-weight: 300;
 }
 
 .form-btn {
