@@ -225,6 +225,7 @@ export default function App() {
               max={4.0}
               placeholder={"Enter your GPA"}
               value={gpa || ""}
+              inputMode={"numeric"}
               onChange={(e) => setGpa(e.target.valueAsNumber)}
             />
           </Form.Group>
